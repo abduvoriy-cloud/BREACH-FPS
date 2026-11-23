@@ -15,6 +15,8 @@ BREACH is an independent game-development project exploring the engineering behi
 
 ## Implemented prototype features
 
+These exist in the local Unity prototype. They are not in this repository yet.
+
 - First-person player movement and camera control.
 - Weapon firing, recoil, ammunition, and reload mechanics.
 - Crosshair and gameplay HUD.
@@ -33,6 +35,7 @@ BREACH is an independent game-development project exploring the engineering behi
 | Programming | C# |
 | AI navigation | Unity NavMesh |
 | Version control | Git and GitHub |
+| License | MIT |
 
 ## Planned development
 
@@ -48,7 +51,11 @@ The repository is being prepared for the public source release. Until the Unity 
 
 ## Author
 
-Independent Computer Science and game-development project by **abduvoriy-cloud**.
+Independent Computer Science and game-development project by [abduvoriy-cloud](https://github.com/abduvoriy-cloud).
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
